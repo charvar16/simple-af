@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://aprilbrookes.com/static/css/main.073c9b0a.css",
+    "main.js": "https://aprilbrookes.com/static/js/main.372cf695.js",
+    "static/js/787.c97e7208.chunk.js": "https://aprilbrookes.com/static/js/787.c97e7208.chunk.js",
+    "index.html": "https://aprilbrookes.com/index.html",
+    "main.073c9b0a.css.map": "https://aprilbrookes.com/static/css/main.073c9b0a.css.map",
+    "main.372cf695.js.map": "https://aprilbrookes.com/static/js/main.372cf695.js.map",
+    "787.c97e7208.chunk.js.map": "https://aprilbrookes.com/static/js/787.c97e7208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.372cf695.js"
+  ]
+}
