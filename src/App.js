@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
         <p>
-          React JS Javascript
+          The App is live
         </p>
     </div>
   );
